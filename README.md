@@ -1,0 +1,1 @@
+# Rainfall_Prediction_for_almora_district_using_RNN_STM
